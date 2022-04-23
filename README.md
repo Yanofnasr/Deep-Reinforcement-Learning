@@ -1,12 +1,13 @@
-# Reinforcement Learning Methods and Tutorials
+# Deep Reinforcement Learning Methods :fire:
 
-Covering tutorials from the basic RL algorithms to advanced algorithms.
-# Prerequistes
+Covering methods from the basic RL algorithms to advanced algorithms.
+Enjoy :smile:
+# :dart: Prerequistes 
 - Tensorflow = 1.0 (varies for each example)
 - gym >= 0.8.0 (varies for each example)
 - pyglet >= 1.2.4
 - numpy >= 1.12.1
-# Table of Contents
+# :raised_hands: Table of Contents
 
 * Tutorials
     * [Simple entry example](contents/1_command_line_reinforcement_learning)
@@ -31,7 +32,7 @@ Covering tutorials from the basic RL algorithms to advanced algorithms.
     * [BipedalWalker](experiments/Solve_BipedalWalker)
     * [LunarLander](experiments/Solve_LunarLander)
 
-# Some RL Networks
+# :chart_with_upwards_trend: Some RL Networks
 ### [Deep Q Network](contents/5_Deep_Q_Network)
 
 <a href="contents/5_Deep_Q_Network">
@@ -68,7 +69,7 @@ Covering tutorials from the basic RL algorithms to advanced algorithms.
     <img class="course-image" src="./contents/Curiosity_Model/Curiosity.png">
 </a>
 
-# References
+# :bookmark_tabs: References
 
 - [Double DQN](https://arxiv.org/abs/1509.06461)
 - [DQN improvement](https://arxiv.org/abs/1511.05952)
